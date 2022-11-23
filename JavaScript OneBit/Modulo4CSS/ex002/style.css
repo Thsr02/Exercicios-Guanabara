@@ -1,0 +1,17 @@
+p{
+    font-family: 'Montserrat', 'Arial', sans-serif;
+    font-size: 20px;
+    font-weight: 600; /* usado para alterar o peso da fonte */
+     line-height: 2; /* usado para dar espaço entre as linha */
+}
+
+h1{
+    font-family: 'Geostar', cursive;
+    text-align: center;
+    text-decoration: underline; /*usado para decoraçao tipo linha cortando o texto ou ate mesmo um underline que deixaria o texto sublinhado*/
+    margin: 45px auto 200px auto;
+    /* inicia com top,right, botton, left no exemplo acima */
+    width: 20%;
+    border: 2px solid;;
+    padding: 10px;
+}
